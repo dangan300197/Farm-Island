@@ -90,7 +90,7 @@ public class Chunk : MonoBehaviour
         {
             Vector3 orginScale = unlockedElements.transform.localScale;
             unlockedElements.transform.localScale = Vector3.zero;
-            unlockedElements.transform.DOScale(orginScale, 0.25f).SetEase(Ease.OutBounce);
+            unlockedElements.transform.DOScale(orginScale, 0.5f).SetEase(Ease.OutBounce);
 
 		}
 

@@ -29,9 +29,9 @@ Library: E:\Mobile_Farming_Game\Temp\BurstOutput\tempburstlibs\armeabi-v7a\lib_b
 --assembly-defines=Unity.RenderPipelines.Universal.Shaders;
 --assembly-defines=Unity.VisualScripting.State;
 --assembly-defines=Cinemachine;
+--assembly-defines=DOTween;
 --assembly-defines=Unity.VisualScripting.Antlr3.Runtime;
 --assembly-defines=Unity.Burst.Unsafe;
---assembly-defines=DOTween;
 --assembly-defines=System.Runtime;
 --assembly-defines=netstandard;
 --assembly-defines=Mono.Security;
@@ -91,9 +91,9 @@ Library: E:\Mobile_Farming_Game\Temp\BurstOutput\tempburstlibs\armeabi-v7a\lib_b
 --assembly-defines=Unity.RenderPipelines.Universal.Shaders;
 --assembly-defines=Unity.VisualScripting.State;
 --assembly-defines=Cinemachine;
+--assembly-defines=DOTween;
 --assembly-defines=Unity.VisualScripting.Antlr3.Runtime;
 --assembly-defines=Unity.Burst.Unsafe;
---assembly-defines=DOTween;
 --assembly-defines=System.Runtime;
 --assembly-defines=netstandard;
 --assembly-defines=Mono.Security;

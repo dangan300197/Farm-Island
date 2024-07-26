@@ -308,13 +308,13 @@ public class WorldManager : MonoBehaviour
 
 	private void ChunkPriceChangedCallback()
 	{
-		Debug.Log("chunk price changed");
+		//Debug.Log("chunk price changed");
 		shouldSave = true;
 	}
 
-	private void LoadWorld()
+	public void LoadWorld()
 	{
-		
+
 		if (File.Exists(dataPath))
 		{
 			// Đọc dữ liệu từ tệp

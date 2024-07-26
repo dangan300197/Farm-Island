@@ -29,7 +29,7 @@ public class CashManager : MonoBehaviour
 	{
 		coins += amount;
 		UpdateCoinContainers();
-		Debug.Log("Coins updated: " + coins);
+		//Debug.Log("Coins updated: " + coins);
 
 		SaveData();
 	}

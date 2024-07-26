@@ -70,6 +70,7 @@ public class PlayerController : MonoBehaviour
 	{
 		characterController = GetComponent<CharacterController>();
 		playerAnimator = GetComponent<PlayerAnimator>();
+		Application.targetFrameRate = 60;
 	}
 
 	// Update is called once per frame
